@@ -1,10 +1,10 @@
 {
   "name": "@jonburger/luckyballs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI to generate lottery numbers",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/jonburger/luckyballs.git"
+    "type": "git",
+    "url": "https://github.com/jonburger/luckyballs.git"
   },
   "main": "src/index.js",
   "bin": {
@@ -27,5 +27,9 @@
   "license": "ISC",
   "dependencies": {
     "esm": "^3.2.25"
-  }
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ]
 }
