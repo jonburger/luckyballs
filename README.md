@@ -11,7 +11,7 @@ A CLI to generate lottery numbers.
 - **number of numbers**: Integer - how many numbers to pick per line
 - **maximum ball number**: Integer - how many balls does this lottery have
 
-You can select multiple ranges of numbers.
+### You can select multiple ranges of numbers
 
 The following is an example of 2 lines for the Euromillions lottery which has 5 balls 1 to 50, and 2 balls 1 to 12:
 
